@@ -13,5 +13,7 @@
   https://www.yolegroup.com/
   
   https://semiengineering.com/
+  
+  https://www.electronicdesign.com/
 
 </ul>
