@@ -15,5 +15,7 @@
   https://semiengineering.com/
   
   https://www.electronicdesign.com/
+  
+  https://www.allaboutcircuits.com/
 
 </ul>
